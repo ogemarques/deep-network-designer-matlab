@@ -17,22 +17,9 @@ See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270283/ for an example of a re
 ### Solution
 We build a fully connected feedforward neural network from scratch using the Deep Network Designer app and test the resulting model to determine its accuracy.
 
-
-
-
-| ![](figures/gan_skin4.png) |
-|:--:|
-| Snapshot of the GAN after training. (L) generated images; (R) generator (blue) and discriminator (red) curves showing score (between 0 and 1, where 0.5 is best) for each iteration.|
-
-| ![](figures/gan_skin3.png) |
-|:--:|
-| Examples of synthetically generated images.|
-
-
 ## Part 2: Medical image modality classification
 ### Problem
 Given a collection of medical images from 6 different modalities, design a multiclass classifier to label a previously unseen image according to the category (modality) to which it should belong.
-
 ### Dataset
 The MedNIST dataset was created for educational purposes and contains medical images gathered from several sets from TCIA, the RSNA Bone Age Challenge, and the NIH Chest X-ray dataset. The name MedNIST was inspired by the popular MNIST dataset, which has been called "the 'Hello World' of deep learning." The main difference is that, instead of containing images of handwritten digits, MedNIST contains medical images.
 
