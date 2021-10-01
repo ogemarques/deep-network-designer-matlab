@@ -21,8 +21,7 @@ The MedNIST dataset was created for educational purposes and contains medical im
 
 There are 6 folders in the dataset: Hand, AbdomenCT, CXR, ChestCT, BreastMRI, HeadCT, whose names should be used as the labels to train our classification model.
 
-The dataset is kindly made available by Dr. Bradley J. Erickson M.D., Ph.D. (Department of Radiology, Mayo Clinic) under the Creative Commons CC BY-SA 4.0 license. If you use the MedNIST dataset, please acknowledge the source, e.g. 
-https://github.com/Project-MONAI/MONAI/blob/master/examples/notebooks/mednist_tutorial.ipynb 
+The dataset is kindly made available by Dr. Bradley J. Erickson M.D., Ph.D. (Department of Radiology, Mayo Clinic) under the Creative Commons CC BY-SA 4.0 license. If you use the MedNIST dataset, please acknowledge the source.
 ### Solution
 In this part we build an image classifier starting from a pre-trained (on ImageNet) CNN under the transfer learning paradigm. Once again, we use the Deep Network Designer app to build our solution by following these steps:
 1. Open the Deep Network Designer app and choose a pretrained network.
