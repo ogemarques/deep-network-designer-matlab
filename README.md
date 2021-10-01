@@ -44,8 +44,8 @@ Once you open the file and expand it, it should produce a folder structure where
 |:--:|
 | MedNIST folder structure.|
 
-1. Open MATLAB.
-2. Run the `design_nn_matlab.mlx` script and inspect results.
+3. Open MATLAB.
+4. Run the `design_nn_matlab.mlx` script and inspect results.
 ## Additional remarks
 - You are encouraged to expand and adapt the example to your needs.
 - The choice of network architecture for Part 1 and pretrained model for Part 2 is merely illustrative, and so are the choice of  hyperparameters (learning rate, mini-batch size, number of epochs, etc.). You are encouraged to (use [Experiment Manager](https://www.mathworks.com/help/deeplearning/ref/experimentmanager-app.html) to) tweak those choices and find a better solution <sup>[1](#myfootnote1)</sup>.
