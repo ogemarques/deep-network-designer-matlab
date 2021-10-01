@@ -36,7 +36,7 @@ In this part we build an image classifier starting from a pre-trained (on ImageN
 - [ ]  [Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html) (only required for training using a GPU)
 ## Suggested steps
 1. Download or clone the repository.
-2. Download the MedNIST dataset using [this link] (https://drive.google.com/uc?id=1QsnnkvZyJPcbRoV_ArW8SnE1OTuoVbKE).
+2. Download the MedNIST dataset using [this link](https://drive.google.com/uc?id=1QsnnkvZyJPcbRoV_ArW8SnE1OTuoVbKE).
 
 Once you open the file and expand it, it should produce a folder structure where each folder is named with the image category.
 
