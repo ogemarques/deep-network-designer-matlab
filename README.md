@@ -1,3 +1,4 @@
+[![View Identifying and Designing Neural Networks on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/100124-identifying-and-designing-neural-networks)
 # Identifying and Designing Neural Networks
 This repository shows an example of how to use MATLAB and the Deep Network Designer app to build deep learning solutions to two different problems:
 1. Diabetes prediction
